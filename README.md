@@ -5,6 +5,8 @@ to create, edit, and delete notes, providing an intuitive note-taking
 experience. - Hive for local database storage. - BLOC state
 management for efficient state management.
 
+- [Watch video](https://drive.google.com/file/d/1yvIXdtiDrR_3Pqks7XzhvUbHxG2CraRy/view?usp=sharing)
+
 <div>
 <img src="https://github.com/Ashraf50/Notes_app/assets/121103042/5c71e043-cf90-4569-8a55-949de4a38a0d"  width="200" height="400">
 <img src="https://github.com/Ashraf50/Notes_app/assets/121103042/63e98813-acd3-4452-834c-53aa7a47c20f"  width="200" height="400">
